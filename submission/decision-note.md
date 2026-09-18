@@ -34,6 +34,8 @@ Runtime/dependencies, test command, spike command, and where results appear.
 
 Time spent, what remains, and next steps.
 
-## AI disclosure
+## AI practice and disclosure
 
-Tools used (or none); where they helped; what you changed or validated; remaining assumptions or limitations.
+**How you used AI here.** One thing AI produced that you rejected or corrected and why; the claim in this note you are least confident in; what you verified by running it versus accepted on faith.
+
+**The AI system you would build for this engagement.** At most 250 words: the reusable asset and where it lives; where AI acts, only proposes, or is never used; guardrails against output that looks correct but is not; how you would know it works after 60 days. Shareable artifacts may be attached, redacted; optional and not scored on volume.

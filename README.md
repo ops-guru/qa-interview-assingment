@@ -32,9 +32,24 @@ Bullets and tables are welcome. Address:
 - **Performance and client decision:** what “10×” still needs to mean, your proposed measurable acceptance criteria, and your next performance experiment. Include a two-sentence message to the client VP about readiness and the decision or support you need.
 - **Practice building:** one repeatable starter offering—who needs it, its scope and boundaries, reusable assets, and how you would demonstrate business value.
 
-**3. Run instructions and a short AI disclosure**
+**3. Run instructions, AI practice, and a short disclosure**
 
-Outside the word limit, include commands, runtime/dependencies, time spent, unfinished work, and AI tools used—or “none.” Describe where AI helped, what you changed or validated yourself, and any remaining assumptions or limitations. AI use is allowed; paid tools are not required.
+Outside the word limit. Include commands, runtime/dependencies, time spent, and unfinished work. AI use is allowed; paid tools are not required.
+
+**How you used AI here.** Answer three questions directly:
+
+- Name one thing AI produced that you rejected or corrected, and why.
+- Which claim in your decision note are you least confident in?
+- What did you verify by running it, versus accept on faith?
+
+**The AI system you would build for this engagement — at most 250 words.** Three squads use inconsistent approaches, and about 600 of 4,000 tests fail for unestablished reasons. You have one engineer at roughly half their time. Describe:
+
+- What you would standardize as a reusable asset—skill, prompt, agent, template, or checklist—and where it lives so three squads stay consistent.
+- Where AI is allowed to act, where it only proposes, and which decisions never go to AI.
+- Your guardrails: how you detect AI output that looks correct but is not, specifically a test that passes for the wrong reason.
+- How you would know the system is working after 60 days.
+
+Attach real artifacts if you have them and they are shareable. This is optional; redact anything client-specific. Volume earns no credit—we read them as context for the interview.
 
 ## Getting started
 
