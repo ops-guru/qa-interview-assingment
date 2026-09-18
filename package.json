@@ -1,0 +1,13 @@
+{
+  "name": "principal-quality-architect-exercise",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Local fixture for a short Principal Quality Architect hiring exercise.",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node server.mjs"
+  }
+}
